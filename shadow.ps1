@@ -1,1 +1,1 @@
-vssadmin delete shadows /for=c: /oldest /quiet
+vssadmin delete shadows /for=c: /oldest
